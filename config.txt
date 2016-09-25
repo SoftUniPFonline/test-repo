@@ -1,5 +1,2 @@
-name=Itso
-
-size=50
-
-email=hristokostov@students.softuni.bg
+name=Tihomir
+Age=26
